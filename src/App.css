@@ -1,0 +1,18 @@
+input{
+    width:100%
+}
+ 
+
+
+.items-container .col-6 , .items-container .col-4 {
+    text-align: left;
+}
+
+.kg-button {
+    min-width: 80px;
+    /* text-align: right; */
+}  
+
+.kg-row {
+    margin: 10px 5px;
+}
